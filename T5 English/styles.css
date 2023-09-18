@@ -1,0 +1,33 @@
+.carlos{
+    width: 60%;
+}
+
+.erik{
+    width: 67%;
+}
+
+.jefferson{
+    width: 75%;
+}
+
+.yo{
+    width:100%;
+}
+
+.tu{
+    width:100%;
+}
+
+.el{
+    width:100%;
+}
+
+.photo{
+    display: flex;
+  align-items: flex-end;
+  width:100%;
+}
+
+.video{
+    width:60%;
+}
